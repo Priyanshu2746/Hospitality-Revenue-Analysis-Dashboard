@@ -104,5 +104,5 @@ The Hotel Revenue Insights Dashboard provides a powerful tool for hotel manageme
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## **Dasgboard Sample**
-This `README.md` file provides a comprehensive guide to your Power BI project, making it easy for others to understand, use, and appreciate your work.![image](https://github.com/user-attachments/assets/ecaf0896-eeb0-46d8-9d52-5e96ad1f36fd)
+## **Dashboard Sample**
+![image](https://github.com/user-attachments/assets/ecaf0896-eeb0-46d8-9d52-5e96ad1f36fd)
