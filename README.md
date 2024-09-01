@@ -1,6 +1,4 @@
-Here's a detailed `README.md` file for your Power BI project. This will help anyone visiting your GitHub repository understand the project's purpose, features, and how to explore it.
 
----
 
 # **Hotel Revenue Insights Dashboard**
 
